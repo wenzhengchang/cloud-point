@@ -1,0 +1,7 @@
+{
+  "name": "手势粒子视界 (Gesture Particle Horizon)",
+  "description": "一个通过摄像头捕捉手势来控制形态的实时3D粒子系统。支持双手张合控制缩放，并在爱心、花朵、土星等形态间切换。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
